@@ -12,13 +12,11 @@ If you like the template and find it useful, please help us spread the word :-)
 - Author: HtmlCoder (http://htmlcoder.me)
 - Contact: http://htmlcoder.me/contact
 
-Live Preview
-=======================================================================
-http://www.htmlcoder.me/preview/worthy/v.1.0
+
 
 License
 =======================================================================
-Worthy is released under the Creative Commons Attribution 3.0 License
+is released under the Creative Commons Attribution 3.0 License
 https://creativecommons.org/licenses/by/3.0/
 
 Credits
